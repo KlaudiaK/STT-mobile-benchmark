@@ -1,12 +1,12 @@
 ### Librispeech test clean
 | filename | length (seconds) | length category |
 |----------|----------|----------|
-| 1580-141083-0040.flac   | 3,75   | short   |
-| 6930-76324-0013.flac   | 4,305   | short   |
-| 8230-279154-0029.flac   | 8,54  | medium   |
-| 5683-32879-0011.flac   | 9,21   | medium   |
-| 2094-142345-0006.flac   | 13,82   | long   |
-| 7176-92135-0012.flac   | 16,4   | long   |
+| 1580-141083-0040.flac   | 3.75   | short   |
+| 6930-76324-0013.flac   | 4.305   | short   |
+| 8230-279154-0029.flac   | 8.54  | medium   |
+| 5683-32879-0011.flac   | 9.21   | medium   |
+| 2094-142345-0006.flac   | 13.82   | long   |
+| 7176-92135-0012.flac   | 16.4   | long   |
 
 ### Librispeech test other
 | filename | length (seconds) | length category |
@@ -20,3 +20,11 @@
 
 ### Common Voice
 
+| filename | length (seconds) | length category |
+|----------|----------|----------|
+| common_voice_en_276369.mp3 | 3.504 | short |
+| common_voice_en_39820939.mp3 | 3.42 | short  |
+| common_voice_en_20025414.mp3 | 7.008 | medium |
+| common_voice_en_18272583.mp3 | 5.184 | medium |
+| common_voice_en_18725234.mp3 | 10.272 | long |
+| common_voice_en_19222168.mp3 | 10.296 | long |
